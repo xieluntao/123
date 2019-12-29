@@ -8,6 +8,6 @@ public class Test {
     }
 
     public void test(){
-        System.out.println("刘阿龙是憨批1lll");
+        System.out.println("刘阿龙是憨批");
     }
 }
