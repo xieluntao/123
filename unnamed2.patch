@@ -1,0 +1,19 @@
+Index: test/src/main/java/com/youlexuan/Test.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test/src/main/java/com/youlexuan/Test.java	(revision 426fc5b5a2ecb20c57219d318880f845eb2b1418)
++++ test/src/main/java/com/youlexuan/Test.java	(date 1577622126000)
+@@ -2,6 +2,11 @@
+ 
+ public class Test {
+     public static void main(String[] args) {
++        System.out.println("厂长憨批");
+ 
++    }
++
++    public void test(){
++        System.out.println("刘阿龙是憨批");
+     }
+ }
